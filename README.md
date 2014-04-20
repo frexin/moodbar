@@ -1,0 +1,4 @@
+moodbar
+=======
+
+Moodbar generator
